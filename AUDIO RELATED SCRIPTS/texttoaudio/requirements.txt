@@ -1,3 +1,4 @@
 gtts==2.2.3
 playsound==1.2.2
 pygobject
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
