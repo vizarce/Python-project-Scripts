@@ -1,1 +1,2 @@
 django_recaptcha==2.0.6
+django>=4.2.24 # not directly required, pinned by Snyk to avoid a vulnerability
